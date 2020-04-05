@@ -72,7 +72,7 @@ eureka:
 
 info:
   groupId: com.ue.microservice
-  artifactId: microservice-student-provider-config-1007
+  artifactId: microservice-student-provider-config-1008
   version: 1.0-SNAPSHOT
   contacts: Tom
   phone: 123456
